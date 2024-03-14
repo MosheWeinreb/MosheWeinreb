@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Moshe Weinreb
+
 #### Development 
 ![Development ](https://pbs.twimg.com/profile_banners/1768273100095762432/1710425719/1080x360)
 
