@@ -4,7 +4,7 @@
 
 I'm Moshe from Israel, and I write code as a B.Sc Computer Science student, i enjoy learning languages and frameworks like Python and others.
 
-Skills: Python / Java
+Skills: Python/Java/CSS/HTML
 
 - 🔭 I’m currently working on My own project  
 
