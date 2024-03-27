@@ -4,7 +4,15 @@
 
 I'm Moshe from Israel, and I write code as a B.Sc Computer Science student, i enjoy learning languages and frameworks like Python and others.
 
-Skills: Python/Java/CSS/HTML
+##### languages
+🐍 Python  &nbsp; • &nbsp; 🐧 Bash &nbsp; • &nbsp; 🐬 SQL &nbsp; • &nbsp; 🐊 C &nbsp; • &nbsp; 🐉 C++ &nbsp; • &nbsp; 🐎 Java &nbsp;
+
+##### tools
+Git &nbsp; • &nbsp; Docker &nbsp;  • &nbsp; Linux &nbsp; 
+
+##### databases
+&nbsp; MongoDB
+
 
 - 🔭 I’m currently working on My own project  
 
