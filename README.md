@@ -14,8 +14,6 @@ Git &nbsp; • &nbsp; Docker &nbsp;  • &nbsp; Linux &nbsp; • &nbsp; Selenium
 &nbsp; MongoDB
 
 
-- 🔭 I’m currently working on My own project  
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MosheWeinreb&show_icons=true)  
 
