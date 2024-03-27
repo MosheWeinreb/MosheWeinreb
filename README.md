@@ -2,7 +2,7 @@
 #### Development 
 ![Development ](https://pbs.twimg.com/profile_banners/1768273100095762432/1710425719/1080x360)
 
-I'm Moshe from Israel, and I write code as a B.Sc Computer Science student, i enjoy learning languages and frameworks.
+I'm Moshe from Israel, I write code as a B.Sc Computer Science student and enjoy learning languages and frameworks.
 
 ##### languages
 🐍 Python  &nbsp; • &nbsp; 🐧 Bash &nbsp; •  &nbsp; ↖️ HTML &nbsp; • &nbsp; 🐬 SQL &nbsp; • &nbsp; 🐊 C &nbsp; • &nbsp; 🐉 C++ &nbsp; • &nbsp; 🐎 Java &nbsp;
