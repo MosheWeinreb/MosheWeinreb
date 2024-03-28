@@ -5,7 +5,7 @@
 I'm Moshe from Israel, I write code as a B.Sc Computer Science student and enjoy learning languages and frameworks.
 
 ##### languages
-🐍 Python  &nbsp; • &nbsp; 🐧 Bash &nbsp; •  &nbsp; ↖️ HTML &nbsp; • &nbsp; 🐬 SQL &nbsp; • &nbsp; 🐊 C &nbsp; • &nbsp; 🐉 C++ &nbsp; • &nbsp; 🐎 Java &nbsp;
+🐍 Python  &nbsp; • &nbsp; 🐧 Bash &nbsp; •  &nbsp; ↖️ HTML &nbsp; • &nbsp; 🐬 SQL &nbsp; •&nbsp; 🐉 C++ &nbsp; • &nbsp; 🐎 Java &nbsp;
 
 ##### tools
 Git &nbsp; • &nbsp; Docker &nbsp;  • &nbsp; Linux &nbsp; • &nbsp; Selenium &nbsp; 
