@@ -11,7 +11,7 @@ I'm Moshe from Israel, I write code as a B.Sc Computer Science student and enjoy
 Git &nbsp; • &nbsp; Docker &nbsp;  • &nbsp; Linux &nbsp; • &nbsp; Selenium &nbsp; • &nbsp; Flask &nbsp; • &nbsp; Bootstrap &nbsp; 
 
 ##### databases
-&nbsp; MongoDB
+&nbsp; SQLite 
 
 
 
